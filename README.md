@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ajinkyathail
-- 👀 I’m interested in Works On Projects, And New Languages
-- 🌱 I’m currently learning B.E(Information Technology)
+- 👀 I’m interested in Works On New Projects, And New Technologies
 - 📫 How to reach me ajinkyathail@gmail.com
 
 <!---
